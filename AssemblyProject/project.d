@@ -1,1 +1,0 @@
-.\project.o: project.s
