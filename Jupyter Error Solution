@@ -1,0 +1,10 @@
+Error when I installed Python Jupyter Notebook.
+The problem was about MarkupSafe.
+
+So uninstall it and then reinstall by downloading the package at https://www.lfd.uci.edu/~gohlke/pythonlibs/#markupsafe
+And try to install notebook again.
+
+
+I referenced this site.
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+https://dojang.io/mod/page/view.php?id=1169
